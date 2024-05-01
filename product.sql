@@ -1,0 +1,22 @@
+INSERT INTO product (category, product_name, discount, vendor_price, selling_price) 
+VALUES 
+('Electronics', 'Laptop', 0.1, 800, 1000),
+('Electronics', 'Smartphone', 0.15, 600, 700),
+('Electronics', 'Tablet', 0.2, 400, 500),
+('Clothing', 'T-Shirt', 0.05, 20, 25),
+('Clothing', 'Jeans', 0.1, 40, 50),
+('Clothing', 'Dress', 0.15, 60, 70),
+('Home Appliances', 'Refrigerator', 0.1, 800, 900),
+('Home Appliances', 'Microwave', 0.05, 150, 160),
+('Home Appliances', 'Coffee Maker', 0.08, 50, 55),
+('Books', 'Fiction Book', 0.2, 10, 12),
+('Books', 'Non-Fiction Book', 0.15, 15, 17),
+('Books', 'Biography', 0.1, 20, 22),
+('Toys', 'Action Figure', 0.05, 10, 11),
+('Toys', 'Doll', 0.1, 15, 17),
+('Toys', 'LEGO Set', 0.15, 20, 23),
+('Beauty', 'Shampoo', 0.05, 5, 6),
+('Beauty', 'Conditioner', 0.08, 8, 9),
+('Beauty', 'Body Lotion', 0.1, 10, 11),
+('Furniture', 'Chair', 0.1, 50, 60),
+('Furniture', 'Desk', 0.15, 100, 120);
